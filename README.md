@@ -1,16 +1,14 @@
-# flutter_konverter_suhu
+# 04-Flutter-App-Temperature-Conversion
 
-A new Flutter project.
+NIM   : 2041720132 <br>
+Nama  : Maulana Bintang Irfansyah <br>
+Kelas : TI-3H <br>
+Prodi : D4 Teknik Informatika <br>
 
-## Getting Started
+## Hasil Praktikum
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](assets/images/fahrenheit.PNG)
+<br>
+![image](assets/images/kelvin.PNG)
+<br>
+![image](assets/images/reamur.PNG)
